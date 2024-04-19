@@ -1,0 +1,7 @@
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\bin\Debug\Zadacha3.exe.config
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\bin\Debug\Zadacha3.exe
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\bin\Debug\Zadacha3.pdb
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\obj\Debug\Zadacha4.csproj.AssemblyReference.cache
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\obj\Debug\Zadacha4.csproj.CoreCompileInputs.cache
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\obj\Debug\Zadacha3.exe
+E:\Programming\Visual Studio C#\DomashnaOOP\Zadacha3\obj\Debug\Zadacha3.pdb

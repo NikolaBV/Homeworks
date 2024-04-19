@@ -1,0 +1,7 @@
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\bin\Debug\DomashnaOOP.exe.config
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\bin\Debug\DomashnaOOP.exe
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\bin\Debug\DomashnaOOP.pdb
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\obj\Debug\DomashnaOOP.csproj.AssemblyReference.cache
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\obj\Debug\DomashnaOOP.csproj.CoreCompileInputs.cache
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\obj\Debug\DomashnaOOP.exe
+E:\Programming\Visual Studio C#\DomashnaOOP\DomashnaOOP\obj\Debug\DomashnaOOP.pdb
